@@ -1,6 +1,9 @@
 token:
   expiration_time: 86400000 #util 1 day, 60 * 60 * 24 * 1000
-  secret: ecommerce_project_user_service_user_token_secret_key
+  secret: ecommerce_project_user_service_user_token_secret_key_prod
 
   gateway:
     ip: 192.168.0.8
+
+
+    
